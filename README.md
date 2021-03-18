@@ -1,7 +1,18 @@
-Este proyecto de realizo en colaboración con 
-https://github.com/Archuletagg
-https://github.com/epiob
-https://github.com/NehemiasS
+Este proyecto de realizo en colaboración con
+1.https://github.com/Archuletagg
+2.https://github.com/epiob
+3.https://github.com/NehemiasS
+
+![image](https://user-images.githubusercontent.com/26560418/111710248-e3efdf00-880e-11eb-87a6-cd6694323bec.png)
+![image](https://user-images.githubusercontent.com/26560418/111710257-e9e5c000-880e-11eb-946e-efcbe361e953.png)
+![image](https://user-images.githubusercontent.com/26560418/111710270-f10cce00-880e-11eb-83d8-36f310349b09.png)
+![image](https://user-images.githubusercontent.com/26560418/111710294-fd912680-880e-11eb-9eb7-480768f1a6a6.png)
+![image](https://user-images.githubusercontent.com/26560418/111710377-33360f80-880f-11eb-9cb9-51e2376a7f2b.png)
+![image](https://user-images.githubusercontent.com/26560418/111710418-4812a300-880f-11eb-8916-a1b902726a57.png)
+![image](https://user-images.githubusercontent.com/26560418/111710430-4e088400-880f-11eb-9588-df81b7b57861.png)
+![image](https://user-images.githubusercontent.com/26560418/111710444-53fe6500-880f-11eb-8147-6cef95ee5633.png)
+
+
 
 Esta realizadon con React js, a continucacion estructura basica de como se esta compuesto
 
