@@ -1,4 +1,4 @@
-Este proyecto de realizo en colaboración con
+Este proyecto se realizo en colaboración con
 1.https://github.com/Archuletagg
 2.https://github.com/epiob
 3.https://github.com/NehemiasS
@@ -14,7 +14,7 @@ Este proyecto de realizo en colaboración con
 
 
 
-Esta realizadon con React js, a continucacion estructura basica de como se esta compuesto
+Esta realizadon con React js, a continucacion estructura básica de como se esta compuesto
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
