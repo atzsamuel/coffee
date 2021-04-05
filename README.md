@@ -1,7 +1,8 @@
 Este proyecto se realizo en colaboración con
-1.https://github.com/Archuletagg
-2.https://github.com/epiob
-3.https://github.com/NehemiasS
+1.https://github.com/Archuletagg (developer team)
+2.https://github.com/epiob (developer team)
+3.https://github.com/NehemiasS (Scrum master)
+4.Samuel Atz (product owner)
 
 ![image](https://user-images.githubusercontent.com/26560418/111710248-e3efdf00-880e-11eb-87a6-cd6694323bec.png)
 ![image](https://user-images.githubusercontent.com/26560418/111710257-e9e5c000-880e-11eb-946e-efcbe361e953.png)
